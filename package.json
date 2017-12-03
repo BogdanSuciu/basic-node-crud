@@ -1,5 +1,5 @@
 {
-  "name": "node-postgres-promises",
+  "name": "basic-node-crud",
   "version": "0.0.0",
   "private": true,
   "scripts": {

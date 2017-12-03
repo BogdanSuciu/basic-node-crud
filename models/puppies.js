@@ -22,7 +22,6 @@ function createCrud(router) {
   each(puppies, (endPoint) => {
     crud.endPointCreator(endPoint, router);
   });
-  puppies;
 }
 
 module.exports = {
