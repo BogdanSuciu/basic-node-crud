@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# php strom
+.idea
+
+# ignoring node_modules
+node_modules
+
+# ignoring config contents
+config
